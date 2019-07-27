@@ -9,6 +9,6 @@ Utility = Lambda * (Time taken * Wages per hour + Total cost of the commute)
 
 Where Lambda is a constant parameter that needs to be tuned.
 
-The modes chosen by us for this model are walking, subway, taxis, for-hire vehicles and shared for-hire vehicles. We decided to use a nested multinomial logit model instead of the traditional multinomial logit model to predict the transportation choice proportions as the choices between taxis and for-hire vehicles is extremely correlated and that would create an unfair imbalance towards those when the model predicts the probability of choosing each mode.
+The modes chosen by us for this model are walking, subway, taxis, private cars, for-hire vehicles and shared for-hire vehicles. We decided to use a nested multinomial logit model instead of the traditional multinomial logit model to predict the transportation choice proportions as the choices between taxis and for-hire vehicles is extremely correlated and that would create an unfair imbalance towards those when the model predicts the probability of choosing each mode.
 
-The current surcharge policy has already been implemented but, talks of a bigger surcharge policy that will be applicable to all vehicles in NYC (not just taxis) is underway and this research hopes to also help in making a data-driven decision on whether that policy should be introduced or not. 
+The current surcharge policy has already been implemented but, talks of a bigger surcharge policy that will be applicable to all vehicles in NYC (not just taxis) is underway and this research hopes to help in making a data-driven decision on whether that policy should be introduced or not. 
