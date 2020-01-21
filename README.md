@@ -13,4 +13,4 @@ The modes chosen by us for this model are walking, subway, taxis, private cars, 
 
 The current surcharge policy has already been implemented but, talks of a bigger surcharge policy that will be applicable to all vehicles in NYC (not just taxis) is underway and this research hopes to help in making a data-driven decision on whether that policy should be introduced or not. 
 
-This project's results include a thorough analysis of economic, social and environmental impacts anticipated as a result of both the policies (current and proposed), aimed to enable voters and policymakers to quantitatively evaluate the potential outcomes of congestion pricing
+This project's results include a thorough analysis of economic, social and environmental impacts anticipated as a result of both the policies (current and proposed), aimed to enable voters and policymakers to quantitatively evaluate the potential outcomes of congestion pricing.
